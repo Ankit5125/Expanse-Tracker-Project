@@ -3,7 +3,7 @@
 A modern, cross-platform expense tracking application built with Flutter.  
 Easily manage, visualize, and analyze your expenses with a beautiful and responsive UI.
 
-**VIEW LIVE :** [Here](https://ankit5125.github.io/Expanse-Tracker-Web-Live/)
+**VIEW LIVE :** [HERE](https://ankit5125.github.io/)
 
 ---
 
